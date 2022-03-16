@@ -2,7 +2,7 @@ body{
     background-color: hotpink;
     color: yellowgreen;
     text-align: center;
-    margin-top:auto;
+    
 }
 .container{
     display: flex;
@@ -40,3 +40,7 @@ body{
 .item-8{height: 50px;}
 .item-9{height: 70px;}
 .item-10{height: 70px;}
+img{
+    height: 200px;
+    width: 600px;
+}
